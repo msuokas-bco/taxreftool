@@ -1,0 +1,18 @@
+Package: taxreftool
+Title: Tools for Building Taxonomic Reference Databases
+Version: 1.0.0
+Author: Marko Suokas <your.email@example.com>
+Description: This package offers utilities to create formatted FASTA and taxonomy
+ files from raw UNITE and SILVA releases. It includes steps for parsing taxonomic
+ strings, cleaning problematic annotations (e.g., 'uncultured', 'Incertae Sedis'),
+ and validating species names, ensuring high-quality reference data for microbial
+ community analysis.
+License: LGPL-3 + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
+Imports: 
+    Biostrings
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
