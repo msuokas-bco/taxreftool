@@ -1,6 +1,6 @@
 # taxreftool: Tools for Building Taxonomic Reference Databases
 
-[![R package](https://img.shields.io/badge/R-package-blue.svg)](https://www.r-project.org/) [![License: LGPL v3](https://img.shields.io/badge/License-LGPL%20v3-blue.svg){alt="License: LGPL v3"}](https://www.gnu.org/licenses/lgpl-3.0)
+[![R package](https://img.shields.io/badge/R-package-blue.svg)](https://www.r-project.org/) [![License: LGPL v3](https://img.shields.io/badge/License-LGPL%20v3-blue.svg)](https://www.gnu.org/licenses/lgpl-3.0)
 
 ## Overview
 
